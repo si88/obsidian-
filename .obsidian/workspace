@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "e4bea2fdecbfb6e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8ca089dc30cede",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "金融證照/信託業募集發行共同信託基金投資於證券交易法第六條之有價證券.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c1d0f694d71f9fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "044934b8b650b9f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1144d5e8e1484675",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e52b24940480f16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9ec3edc24a31504",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "c8d4fb5a6e99bf61",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea00daa43ff1b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f923b5ef17debcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "金融證照/信託業募集發行共同信託基金投資於證券交易法第六條之有價證券.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9f14c303d9d4eacd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c3428d9f90aebb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "金融證照/信託業募集發行共同信託基金投資於證券交易法第六條之有價證券.md"
+              }
+            }
+          },
+          {
+            "id": "3c0c404860ee85a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "金融證照/信託業募集發行共同信託基金投資於證券交易法第六條之有價證券.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "061ebb9ddff609ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e884d6525ffae84",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f2ed29a89ae1679",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100.3333740234375
+  },
+  "active": "7f8ca089dc30cede",
+  "lastOpenFiles": [
+    "金融證照/信託業募集發行共同信託基金投資於證券交易法第六條之有價證券.md",
+    "金融證照/要特別背的題目.md",
+    "金融證照/不動產證券化條例第17條.md",
+    "金融證照/內部人股權申報.md",
+    "金融證照/有價證券信託之信託財產標的.md",
+    "金融證照/基本風險.md",
+    "金融證照/下列何者情事發生時，信託業須於事實發生之翌日起二個營業日內向主管機關申報？.md",
+    "金融證照/信託可以投資之標的.md",
+    "金融證照/信託業之利害關係人.md",
+    "金融證照/信託業僅能辦理之業務.md"
+  ]
+}

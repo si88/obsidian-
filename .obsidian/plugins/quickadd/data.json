@@ -1,0 +1,123 @@
+{
+  "choices": [
+    {
+      "id": "85cb6eb2-4f6c-49a5-9647-98478d378079",
+      "name": "雜學",
+      "type": "Template",
+      "command": true,
+      "templatePath": "資料庫/雜學/雜學模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:請輸入檔案名}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "資料庫/雜學"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "8eac5f48-9720-4bb2-b134-b3e89fff806d",
+      "name": "obsiaition",
+      "type": "Template",
+      "command": true,
+      "templatePath": "obsidian系統/模板/表格.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:請輸入檔案名}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "obsidian系統"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "9d43028c-2e1e-4680-9913-75b599ded928",
+      "name": "anaconda",
+      "type": "Template",
+      "command": true,
+      "templatePath": "anaconda/anaconda筆記模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:請輸入檔案名}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "anaconda"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "e97024a5-384b-45c0-abea-383a92f0cdbb",
+      "name": "Capture:YAML",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": []
+}

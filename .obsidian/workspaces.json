@@ -1,0 +1,381 @@
+{
+  "workspaces": {
+    "控制板": {
+      "main": {
+        "id": "e4bea2fdecbfb6e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "663913bbeb3483ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "控制板/si home.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8c1d0f694d71f9fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "044934b8b650b9f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1144d5e8e1484675",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e52b24940480f16e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 299
+      },
+      "right": {
+        "id": "c8d4fb5a6e99bf61",
+        "type": "split",
+        "children": [
+          {
+            "id": "eea00daa43ff1b7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f923b5ef17debcd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "控制板/si home.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "9f14c303d9d4eacd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9c3428d9f90aebb8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "控制板/si home.md"
+                  }
+                }
+              },
+              {
+                "id": "13e5c11411e30869",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 100.3333740234375,
+        "collapsed": true
+      },
+      "active": "663913bbeb3483ba"
+    },
+    "亞洲大學課程": {
+      "main": {
+        "id": "e4bea2fdecbfb6e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "663913bbeb3483ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "亞洲大學課程/亞洲大學工作面板.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8c1d0f694d71f9fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "044934b8b650b9f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1144d5e8e1484675",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e52b24940480f16e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 299
+      },
+      "right": {
+        "id": "c8d4fb5a6e99bf61",
+        "type": "split",
+        "children": [
+          {
+            "id": "eea00daa43ff1b7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f923b5ef17debcd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "亞洲大學課程/亞洲大學工作面板.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "9f14c303d9d4eacd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9c3428d9f90aebb8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "亞洲大學課程/亞洲大學工作面板.md"
+                  }
+                }
+              },
+              {
+                "id": "13e5c11411e30869",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 100.3333740234375,
+        "collapsed": true
+      },
+      "active": "663913bbeb3483ba"
+    },
+    "戒律": {
+      "main": {
+        "id": "e4bea2fdecbfb6e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "663913bbeb3483ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原則系統/個人/戒律.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8c1d0f694d71f9fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "044934b8b650b9f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1144d5e8e1484675",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e52b24940480f16e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "筆記",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 299
+      },
+      "right": {
+        "id": "c8d4fb5a6e99bf61",
+        "type": "split",
+        "children": [
+          {
+            "id": "eea00daa43ff1b7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f923b5ef17debcd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "原則系統/個人/戒律.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "9f14c303d9d4eacd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9c3428d9f90aebb8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "原則系統/個人/戒律.md"
+                  }
+                }
+              },
+              {
+                "id": "13e5c11411e30869",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7170d3de95c61f6e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8593d263e910770a",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 100.3333740234375,
+        "collapsed": true
+      },
+      "active": "663913bbeb3483ba"
+    }
+  },
+  "active": "亞洲大學課程"
+}

@@ -1,0 +1,6 @@
+- spaced repetition 
+	- 建立字卡 flashcard
+	- 多行
+		- 前面以問號結尾
+	- 單行以::做結尾
+	- 填空== ==
